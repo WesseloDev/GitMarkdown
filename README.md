@@ -35,4 +35,4 @@ I forgot everything else
 
 [Link](https://github.com/WesseloDev/GitMarkdown)
 
-![](https://gbatemp.net/attachments/you-found-a-note-hello-we-are-about-to-touch-you-we-are-freaky-sincerely-the-zombies-co-jpg.410364/)
+![An edited screenshot from Plants Vs. Zombies that reads "Hello, we are about to touch you... we are freaky. Sincerely, the zombies." The text "touch you... we are freaky" is written in papyrus font.](./images/touch.jpg)
