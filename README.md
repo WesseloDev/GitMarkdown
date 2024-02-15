@@ -27,6 +27,8 @@ _Italics?_
 
 I forgot everything else
 
+> This is a quote.
+
 - git add .
 - git commit -m "commit message"
 - git push
